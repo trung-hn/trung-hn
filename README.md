@@ -24,7 +24,9 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 
-Ref: https://github.com/anuraghazra/github-readme-stats
+Ref: 
+https://github.com/abhisheknaiidu/awesome-github-profile-readme
+https://github.com/anuraghazra/github-readme-stats
 ![Docker](https://img.shields.io/badge/-Docker-black?style=flat-square&logo=docker)
 
 ### Tools I use
