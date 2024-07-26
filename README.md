@@ -10,7 +10,8 @@
 
 
 ### 📫 Reach me at
-[![Linkedin](https://i.stack.imgur.com/gVE0j.png) LinkedIn](https://www.linkedin.com/in/trung-hn/)
+[![Linkedin](https://i.sstatic.net/gVE0j.png) LinkedIn](https://www.linkedin.com/in/trung-hn/)
+
 
 <!-- 
 **trung-hn/trung-hn** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -28,6 +29,14 @@ Ref:
 https://github.com/abhisheknaiidu/awesome-github-profile-readme
 https://github.com/anuraghazra/github-readme-stats
 ![Docker](https://img.shields.io/badge/-Docker-black?style=flat-square&logo=docker)
+
+### Tools I use
+![Python](https://a11ybadges.com/badge?logo=python)
+![Google Cloud](https://a11ybadges.com/badge?logo=googlecloud)
+![Snowflake](https://a11ybadges.com/badge?logo=snowflake)
+![Microsoft Azure](https://a11ybadges.com/badge?logo=microsoftazure)
+![PostgreSQL](https://a11ybadges.com/badge?logo=postgresql)
+
 
 ### Tools I use
 ![Python](https://img.shields.io/badge/-Python-black?style=flat-square&logo=Python)
